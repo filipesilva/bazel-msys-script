@@ -1,0 +1,4 @@
+native.sh_binary(
+    name = "script",
+    srcs = ["script.sh"],
+)
